@@ -5,7 +5,7 @@
 def __init__(self):
     self.first_name = "Alwalid"
     self.last_name = "Hemaid"
-    self.age = 14
+    self.age = 19
     self.major = "Computer Science & Engineering"
     self.minor = 'Mathematics'
     self.university = 'AUB Mediterraneo'
@@ -13,23 +13,8 @@ def __init__(self):
     self.beginner_coding_langs = ["C", "HTML", "CSS", "Verilog"]
     self.residence = "Pafos, Cyprus"
     self.job = "Part-time Sales Assistant"
-    self.hobbies = ["Basketball", "Cooking", "Weightlifting", "Adventuring"]
+    self.trying_to_escape_job = True
     self.seeking_opportunities = True
+    self.hobbies = ["Basketball", "Cooking", "Weightlifting", "Adventuring"]
     self.verbal_languages = ["English", "Arabic"]
 ```
-
-
-<!--
-**alwaleedhameed/alwaleedhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
