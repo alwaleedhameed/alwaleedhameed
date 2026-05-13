@@ -10,7 +10,7 @@
 def __init__(self):
     self.first_name = "Alwalid"
     self.last_name = "Hemaid"
-    self.age = 19
+    self.age = 20
     self.major = "Computer Science & Engineering"
     self.minor = 'Mathematics'
     self.university = 'AUB Mediterraneo'
